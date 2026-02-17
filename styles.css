@@ -1,0 +1,12 @@
+/* styles.css */
+#navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 250px;
+  height: 100%;
+  overflow-y: auto;
+  background-color: #f0f0f0;
+  padding: 10px;
+  border-right: 2px solid #cccccc;
+} 
