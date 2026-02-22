@@ -1,3 +1,29 @@
+/* Call-to-action section */
+.cta-section {
+	text-align: center;
+	margin-top: 24px;
+}
+.rsvp-btn {
+	background: #bfa14a;
+	color: #fff;
+	border: none;
+	border-radius: 6px;
+	padding: 12px 32px;
+	font-size: 1.1em;
+	font-family: 'Georgia', serif;
+	cursor: pointer;
+	margin-bottom: 12px;
+	box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+	transition: background 0.2s;
+}
+.rsvp-btn:hover {
+	background: #a88c2a;
+}
+.cta-message {
+	color: #222;
+	font-size: 1em;
+	margin-top: 0;
+}
 .invitation-main {
 	display: flex;
 	gap: 24px;
